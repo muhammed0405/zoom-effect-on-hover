@@ -140,7 +140,7 @@ const Hero: FC<IHeroProps> = ({ border, margin, padding }) => {
 							style={{
 								position: 'absolute',
 								zIndex: '10',
-								top: '200px',
+								top: '300px',
 								left: '30%',
 								backgroundColor: 'rgba(255, 255, 255, 0.5)',
 							}}
